@@ -1,4 +1,4 @@
 # Wallpaper
-My Wallpaper colection 
+My Wallpaper collection 
 
-This are not my pics 
+This are not my pics.
