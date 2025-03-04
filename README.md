@@ -1,18 +1,7 @@
 
-  <h1>Wallpapers</h1>
-    <p>
-        Random Walls Frenzy totally did not steal. It includes:<br />
-        <b>Nord</b>, <b>Gruvbox</b>, <b>Aquarium</b>, <b>Lantern</b><br/> 
-        BONUS:<br/>
-        There's also <b>W E E E B</b> Walls 🎩<br/> 
-        Format: PNG, JPG, GIF
-    </p>
-    <br/>
-    <h4>
-       If you find good walls around feel free to contribute and add em!</br>
-       <b>D U I T</b>
-    </h4>
+All images here are taken from the internet. If you have cool wallpapers to share, feel free to send them!  
 
+If you want any image removed, please contact me at *********  
 <details>
   <summary><b>Anime</b></summary>
 
