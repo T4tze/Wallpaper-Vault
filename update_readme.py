@@ -1,29 +1,30 @@
 import os
 
 # Einstellungen
-REPO_NAME = os.getenv("GITHUB_REPOSITORY", "Wallpaper-Vault").split("/")[-1]
+REPO_NAME = "Wallpaper-Vault" 
 USERNAME = "T4tze"  
 IMAGE_FOLDER = "Wallpaper"
 README_FILE = "README.md"
 
-# Header für README
-readme_content = """# Meine Wallpapers
-
-Hier findest du eine Sammlung meiner Wallpaper. Vorschau unten:
+# Header für die README.md
+readme_content = """# Here are my Wallpaper 
+U cant look at my Wallpapers here:
 
 """
 
-# Bilder auflisten
-if os.path.exists(IMAGE_FOLDER):
-    for filename in sorted(os.listdir(IMAGE_FOLDER)):
+# Alle Unterordner und Bilder durchsuchen
+for root, _, files in os.walk(IMAGE_FOLDER):
+    relative_path = os.path.relpath(root, IMAGE_FOLDER)
+    if relative_path != ".":
+        readme_content += f"## {relative_path}\n\n"
+    
+    for filename in sorted(files):
         if filename.lower().endswith((".png", ".jpg", ".jpeg", ".webp")):
-            image_url = f"https://raw.githubusercontent.com/{USERNAME}/{REPO_NAME}/main/{IMAGE_FOLDER}/{filename}"
+            image_url = f"https://raw.githubusercontent.com/{USERNAME}/{REPO_NAME}/main/{root}/{filename}"
             readme_content += f"![{filename}]({image_url})\n\n"
-else:
-    print(f"Ordner '{IMAGE_FOLDER}' nicht gefunden!")
 
 # README.md speichern
 with open(README_FILE, "w", encoding="utf-8") as f:
     f.write(readme_content)
 
-print(f"{README_FILE} wurde aktualisiert!")
+print(f"{README_FILE} wurde erfolgreich erstellt!")
