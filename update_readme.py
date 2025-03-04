@@ -3,7 +3,7 @@ import os
 # Einstellungen
 REPO_NAME = os.getenv("GITHUB_REPOSITORY", "dein-repository").split("/")[-1]
 USERNAME = "T4tze"  
-IMAGE_FOLDER = "wallpaper"
+IMAGE_FOLDER = "Wallpaper"
 README_FILE = "README.md"
 
 # Header für README
