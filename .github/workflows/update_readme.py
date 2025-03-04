@@ -2,8 +2,8 @@ import os
 
 # Einstellungen
 REPO_NAME = os.getenv("GITHUB_REPOSITORY", "dein-repository").split("/")[-1]
-USERNAME = "deinusername"  # Ersetze mit deinem GitHub-Nutzernamen
-IMAGE_FOLDER = "wallpapers"  # Ordner mit den Bildern
+USERNAME = "T4tze"  
+IMAGE_FOLDER = "wallpaper"
 README_FILE = "README.md"
 
 # Header für README
