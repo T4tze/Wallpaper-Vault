@@ -28,6 +28,13 @@ If you want any image removed, please contact me at *********
 </details>
 
 <details>
+  <summary><b>Skibidi Cars</b></summary>
+
+  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Skibidi Cars/8dc2effb81374274946f18b631f60bcb.png" width="300">
+
+</details>
+
+<details>
   <summary><b>Anime</b></summary>
 
   <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Anime/123123123.jpg" width="300">
