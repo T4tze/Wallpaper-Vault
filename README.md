@@ -1,7 +1,11 @@
-# Here are my Wallpaper 
-U cant look at my Wallpapers here:
+# Looki ati mai wallis
 
-## Anime
+Here are my wallis:
 
-![some-chineese-angel-idk.png](https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Anime/some-chineese-angel-idk.png)
+<details>
+  <summary><b>Anime</b></summary>
+
+  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Anime/some-chineese-angel-idk.png" width="300">
+
+</details>
 
