@@ -9,3 +9,10 @@ Here are my wallis:
 
 </details>
 
+<details>
+  <summary><b>Anime/Minimalist</b></summary>
+
+  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Anime/Minimalist/cool.png" width="300">
+
+</details>
+
