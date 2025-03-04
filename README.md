@@ -11,7 +11,17 @@ If you want any image removed, please contact me at *********
 
   <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Anime/1293442.jpg" width="300">
 
+  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Anime/1313754.png" width="300">
+
+  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Anime/1351642.png" width="300">
+
   <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Anime/1675353344315123.jpg" width="300">
+
+  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Anime/2ada1ecdc8644e74b98ef8e0df24dec552672720-5333x3000.png" width="300">
+
+  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Anime/3f22c1bb4cac46cd8035430a84a583d1.jpg" width="300">
+
+  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Anime/9bb36f96678c59b27743be346dbcfb9b.jpg" width="300">
 
   <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Anime/Afternoon.png" width="300">
 
