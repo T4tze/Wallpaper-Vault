@@ -32,3 +32,21 @@ If you want any image removed, please contact me at *********
 
 </details>
 
+<details>
+  <summary><b>Furyy</b></summary>
+
+  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Furyy/Dream_library_time_water_mayflower_notebook_full_art.png" width="300">
+
+  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Furyy/chill2.png" width="300">
+
+</details>
+
+<details>
+  <summary><b>Cute</b></summary>
+
+  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Cute/01d35a1a9b91cdcafe85bc9b9db2c1c6.jpg" width="300">
+
+  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Cute/gs144fb3ev5e1.png" width="300">
+
+</details>
+
