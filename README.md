@@ -13,3 +13,10 @@ If you want any image removed, please contact me at *********
 
 </details>
 
+<details>
+  <summary><b>Animal</b></summary>
+
+  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Animal/2902820-1933823862.jpg" width="300">
+
+</details>
+
