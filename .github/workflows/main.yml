@@ -5,7 +5,7 @@ on:
     branches:
       - main
   schedule:
-    - cron: '0 0 * * *' # Jeden tag um mitanacht
+    - cron: '0 0 * * *' # Einmal täglich um Mitternacht ausführen
 
 jobs:
   update-readme:
@@ -14,6 +14,8 @@ jobs:
     steps:
       - name: Repository klonen
         uses: actions/checkout@v3
+        with:
+          token: ${{ secrets.GH_TOKEN }}
 
       - name: Python installieren
         uses: actions/setup-python@v3
@@ -29,4 +31,4 @@ jobs:
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add README.md
           git commit -m "🔄 Automatische Aktualisierung der README.md" || echo "Keine Änderungen"
-          git push
+          git push origin main
