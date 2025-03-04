@@ -1,7 +1,7 @@
 import os
 
 # Einstellungen
-REPO_NAME = os.getenv("GITHUB_REPOSITORY", "dein-repository").split("/")[-1]
+REPO_NAME = os.getenv("GITHUB_REPOSITORY", "Wallpaper-Vault").split("/")[-1]
 USERNAME = "T4tze"  
 IMAGE_FOLDER = "Wallpaper"
 README_FILE = "README.md"
