@@ -143,3 +143,16 @@ If you want any image removed, please contact me at *********
 
 </details>
 
+<details>
+  <summary><b>OS</b></summary>
+
+  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/OS/EndeavourOS-DrWho-3840x2160.png" width="300">
+
+  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/OS/Fedora.png" width="300">
+
+  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/OS/SPOILER__archi_.png" width="300">
+
+  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/OS/WINDOWS_CLEAN.png" width="300">
+
+</details>
+
