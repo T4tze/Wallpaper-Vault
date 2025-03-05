@@ -7,6 +7,8 @@ If you want any image removed, please contact me at *********
 <details>
   <summary><b>Minimalistix</b></summary>
 
+  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Minimalistix/1i918gwz1gl61.png" width="300">
+
   <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Minimalistix/5DCF79F9-6124-4DBD-925E-E5DEC87CF129.png" width="300">
 
   <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Minimalistix/a_blue_sky_with_clouds.png" width="300">
