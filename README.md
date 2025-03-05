@@ -112,6 +112,8 @@ If you want any image removed, please contact me at *********
 
   <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Animal/vecyhqfxxkg31.png" width="300">
 
+  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Animal/wallhaven-p9qvge.png" width="300">
+
 </details>
 
 <details>
