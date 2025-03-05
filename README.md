@@ -109,6 +109,13 @@ If you want any image removed, please contact me at *********
 </details>
 
 <details>
+  <summary><b>PaintArt</b></summary>
+
+  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/PaintArt/oo8hu88g5pg61.png" width="300">
+
+</details>
+
+<details>
   <summary><b>Furyy</b></summary>
 
   <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Furyy/Dream_library_time_water_mayflower_notebook_full_art.png" width="300">
