@@ -105,6 +105,8 @@ If you want any image removed, please contact me at *********
 
   <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Anime/wallpaper.png" width="300">
 
+  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Anime/wallpaperflare.com_wallpaper_9.jpg" width="300">
+
 </details>
 
 <details>
