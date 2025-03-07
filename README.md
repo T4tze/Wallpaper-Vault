@@ -125,6 +125,8 @@ If you want any image removed, please contact me at *********
 <details>
   <summary><b>PaintArt</b></summary>
 
+  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/PaintArt/1fmmnncdnxie1.png" width="300">
+
   <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/PaintArt/oo8hu88g5pg61.png" width="300">
 
 </details>
