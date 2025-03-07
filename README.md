@@ -44,6 +44,8 @@ If you want any image removed, please contact me at *********
 
   <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Skibidi Cars/8dc2effb81374274946f18b631f60bcb.png" width="300">
 
+  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Skibidi Cars/cltpqdtny88e1.png" width="300">
+
 </details>
 
 <details>
