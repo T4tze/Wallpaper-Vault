@@ -177,6 +177,8 @@ If you want any image removed, please contact me at *********
 
   <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Games/wallhaven-6dvkpl_3840x2160.png" width="300">
 
+  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Games/wp7134291-solaire-of-astora-wallpapers.jpg" width="300">
+
 </details>
 
 <details>
