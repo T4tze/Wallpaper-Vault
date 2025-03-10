@@ -14,6 +14,10 @@ All images here are taken from the internet. If you have cool wallpapers to shar
 If you want any image removed, please contact me at *********  
 #
 """
+## Stargazers over time
+
+[![Stargazers over time](https://starchart.cc/T4tze/Wallpaper-Vault.svg?variant=adaptive)](https://starchart.cc/T4tze/Wallpaper-Vault)
+
 
 # Alle Unterordner und Bilder durchsuchen
 for root, _, files in os.walk(IMAGE_FOLDER):
