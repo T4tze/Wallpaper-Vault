@@ -120,6 +120,13 @@ If you want any image removed, please contact me at *********
 </details>
 
 <details>
+  <summary><b>Funny</b></summary>
+
+  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Funny/chairmanMeow.png" width="300">
+
+</details>
+
+<details>
   <summary><b>Animal</b></summary>
 
   <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Animal/2902820-1933823862.jpg" width="300">
@@ -138,6 +145,8 @@ If you want any image removed, please contact me at *********
   <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/PaintArt/1fmmnncdnxie1.png" width="300">
 
   <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/PaintArt/6ju1jmzt0whe1.png" width="300">
+
+  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/PaintArt/c9u5jpple8291.png" width="300">
 
   <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/PaintArt/jeff-wayne-war-of-the-worlds-3840x2160-and-5120x2160-v0-sglmeugd3khe1.webp" width="300">
 
