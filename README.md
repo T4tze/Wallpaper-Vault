@@ -330,8 +330,6 @@ If you want any image removed, please contact me at *********
 
   <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/OS/various-os-3-4k.png" width="300">
 
-  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/OS/win-11.png" width="300">
-
   <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/OS/windows-10-simple-microsoft-windows-black-background-wallpaper-preview.jpg" width="300">
 
   <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/OS/windows-black.png" width="300">
