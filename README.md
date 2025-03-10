@@ -30,9 +30,23 @@ If you want any image removed, please contact me at *********
 
   <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Minimalistix/darkroad.jpg" width="300">
 
+  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Minimalistix/earth.png" width="300">
+
+  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Minimalistix/fire-skull.jpg" width="300">
+
   <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Minimalistix/kuromi.png" width="300">
 
   <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Minimalistix/m90bb95n3m651.jpg" width="300">
+
+  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Minimalistix/minim.jpg" width="300">
+
+  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Minimalistix/minimal-purple.jpg" width="300">
+
+  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Minimalistix/minimal_nord_guy.png" width="300">
+
+  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Minimalistix/moon.png" width="300">
+
+  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Minimalistix/nord_purple_waves.png" width="300">
 
   <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Minimalistix/ramen.png" width="300">
 
