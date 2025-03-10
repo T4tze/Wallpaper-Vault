@@ -7,6 +7,10 @@ If you want any image removed, please contact me at *********
 <details>
   <summary><b>Minimalistix</b></summary>
 
+  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Minimalistix/02.jpg" width="300">
+
+  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Minimalistix/03.jpg" width="300">
+
   <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Minimalistix/1i918gwz1gl61.png" width="300">
 
   <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Minimalistix/1v6mcuhne1851.jpg" width="300">
@@ -36,6 +40,8 @@ If you want any image removed, please contact me at *********
   <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Minimalistix/wallhaven-yxyye7.png" width="300">
 
   <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Minimalistix/wp6257053-1426380771.jpg" width="300">
+
+  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Minimalistix/y4dm2xD.jpg" width="300">
 
 </details>
 
@@ -218,6 +224,8 @@ If you want any image removed, please contact me at *********
 
 <details>
   <summary><b>OS</b></summary>
+
+  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/OS/51.jpg" width="300">
 
   <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/OS/EndeavourOS-DrWho-3840x2160.png" width="300">
 
