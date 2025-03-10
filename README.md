@@ -137,6 +137,12 @@ If you want any image removed, please contact me at *********
 <details>
   <summary><b>Animal</b></summary>
 
+  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Animal/19.jpg" width="300">
+
+  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Animal/20.jpg" width="300">
+
+  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Animal/21.jpg" width="300">
+
   <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Animal/2902820-1933823862.jpg" width="300">
 
   <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Animal/mgaoqgmu9pq61.jpg" width="300">
@@ -259,6 +265,8 @@ If you want any image removed, please contact me at *********
 
 <details>
   <summary><b>Scraps</b></summary>
+
+  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Scraps/01.jpg" width="300">
 
   <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Scraps/1243346.png" width="300">
 
