@@ -244,7 +244,13 @@ If you want any image removed, please contact me at *********
 
   <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/OS/WINDOWS_CLEAN.png" width="300">
 
+  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/OS/arch-chan_to.png" width="300">
+
   <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/OS/arch-nord-dark.png" width="300">
+
+  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/OS/arch-peace.png" width="300">
+
+  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/OS/arch_purple.png" width="300">
 
   <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/OS/catppuccin-rainbow-arch.png" width="300">
 
