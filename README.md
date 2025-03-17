@@ -8,86 +8,26 @@ If you want any image removed, please contact me at *********
 ## Star TiMe LiNe
 [![Stargazers over time](https://starchart.cc/T4tze/Wallpaper-Vault.svg?variant=adaptive)](https://starchart.cc/T4tze/Wallpaper-Vault)
 <details>
-  <summary><b>Minimalistix</b></summary>
-
-  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Minimalistix/02.jpg" width="300">
-
-  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Minimalistix/03.jpg" width="300">
-
-  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Minimalistix/1i918gwz1gl61.png" width="300">
-
-  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Minimalistix/1v6mcuhne1851.jpg" width="300">
-
-  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Minimalistix/5DCF79F9-6124-4DBD-925E-E5DEC87CF129.png" width="300">
-
-  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Minimalistix/a_blue_sky_with_clouds.png" width="300">
-
-  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Minimalistix/anime-eye-nord.png" width="300">
-
-  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Minimalistix/black5_unicat.png" width="300">
-
-  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Minimalistix/black_car_girl.jpg" width="300">
-
-  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Minimalistix/blue-black-girl.png" width="300">
-
-  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Minimalistix/cat-waves.png" width="300">
-
-  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Minimalistix/catpuccin_w.png" width="300">
-
-  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Minimalistix/dark-cat-rosewater.png" width="300">
-
-  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Minimalistix/darkroad.jpg" width="300">
-
-  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Minimalistix/earth.png" width="300">
-
-  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Minimalistix/fire-skull.jpg" width="300">
-
-  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Minimalistix/kuromi.png" width="300">
-
-  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Minimalistix/m90bb95n3m651.jpg" width="300">
-
-  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Minimalistix/minim.jpg" width="300">
-
-  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Minimalistix/minimal-purple.jpg" width="300">
-
-  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Minimalistix/minimal_nord_guy.png" width="300">
-
-  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Minimalistix/moon.png" width="300">
-
-  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Minimalistix/nord_purple_waves.png" width="300">
-
-  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Minimalistix/purple-mountain.png" width="300">
-
-  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Minimalistix/ramen.png" width="300">
-
-  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Minimalistix/rick.jpg" width="300">
-
-  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Minimalistix/rocket.png" width="300">
-
-  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Minimalistix/rrbltiehz7b31.png" width="300">
-
-  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Minimalistix/seven_elements_catpuccin.jpg" width="300">
-
-  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Minimalistix/two-astronauts.png" width="300">
-
-  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Minimalistix/underwater.png" width="300">
-
-  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Minimalistix/venom.jpg" width="300">
-
-  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Minimalistix/wallhaven-yxyye7.png" width="300">
-
-  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Minimalistix/wp6257053-1426380771.jpg" width="300">
-
-  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Minimalistix/y4dm2xD.jpg" width="300">
-
-</details>
-
-<details>
   <summary><b>Skibidi Cars</b></summary>
 
   <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Skibidi Cars/8dc2effb81374274946f18b631f60bcb.png" width="300">
 
   <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Skibidi Cars/cltpqdtny88e1.png" width="300">
+
+</details>
+
+<details>
+  <summary><b>Furrys (No Sex)</b></summary>
+
+  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Furrys (No Sex)/Dream_library_time_water_mayflower_notebook_full_art.png" width="300">
+
+  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Furrys (No Sex)/chill2.png" width="300">
+
+  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Furrys (No Sex)/pose.png" width="300">
+
+  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Furrys (No Sex)/pride.jpg" width="300">
+
+  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Furrys (No Sex)/savage.jpg" width="300">
 
 </details>
 
@@ -182,6 +122,25 @@ If you want any image removed, please contact me at *********
 </details>
 
 <details>
+  <summary><b>Looks Like Paintings</b></summary>
+
+  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Looks Like Paintings/0xel5al52u9e1.png" width="300">
+
+  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Looks Like Paintings/1fmmnncdnxie1.png" width="300">
+
+  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Looks Like Paintings/6ju1jmzt0whe1.png" width="300">
+
+  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Looks Like Paintings/c9u5jpple8291.png" width="300">
+
+  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Looks Like Paintings/chinese.png" width="300">
+
+  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Looks Like Paintings/jeff-wayne-war-of-the-worlds-3840x2160-and-5120x2160-v0-sglmeugd3khe1.webp" width="300">
+
+  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Looks Like Paintings/oo8hu88g5pg61.png" width="300">
+
+</details>
+
+<details>
   <summary><b>Animal</b></summary>
 
   <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Animal/19.jpg" width="300">
@@ -195,40 +154,6 @@ If you want any image removed, please contact me at *********
   <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Animal/mgaoqgmu9pq61.jpg" width="300">
 
   <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Animal/vecyhqfxxkg31.png" width="300">
-
-</details>
-
-<details>
-  <summary><b>PaintArt</b></summary>
-
-  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/PaintArt/0xel5al52u9e1.png" width="300">
-
-  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/PaintArt/1fmmnncdnxie1.png" width="300">
-
-  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/PaintArt/6ju1jmzt0whe1.png" width="300">
-
-  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/PaintArt/c9u5jpple8291.png" width="300">
-
-  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/PaintArt/chinese.png" width="300">
-
-  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/PaintArt/jeff-wayne-war-of-the-worlds-3840x2160-and-5120x2160-v0-sglmeugd3khe1.webp" width="300">
-
-  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/PaintArt/oo8hu88g5pg61.png" width="300">
-
-</details>
-
-<details>
-  <summary><b>Furyy</b></summary>
-
-  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Furyy/Dream_library_time_water_mayflower_notebook_full_art.png" width="300">
-
-  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Furyy/chill2.png" width="300">
-
-  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Furyy/pose.png" width="300">
-
-  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Furyy/pride.jpg" width="300">
-
-  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Furyy/savage.jpg" width="300">
 
 </details>
 
@@ -265,6 +190,81 @@ If you want any image removed, please contact me at *********
   <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Games/Doom/doom-the-dark-ages-2025-vc.jpg" width="300">
 
   <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Games/Doom/doom-the-dark-ages-my.jpg" width="300">
+
+</details>
+
+<details>
+  <summary><b>Minimalism</b></summary>
+
+  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Minimalism/02.jpg" width="300">
+
+  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Minimalism/03.jpg" width="300">
+
+  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Minimalism/1i918gwz1gl61.png" width="300">
+
+  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Minimalism/1v6mcuhne1851.jpg" width="300">
+
+  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Minimalism/5DCF79F9-6124-4DBD-925E-E5DEC87CF129.png" width="300">
+
+  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Minimalism/a_blue_sky_with_clouds.png" width="300">
+
+  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Minimalism/anime-eye-nord.png" width="300">
+
+  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Minimalism/black5_unicat.png" width="300">
+
+  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Minimalism/black_car_girl.jpg" width="300">
+
+  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Minimalism/blue-black-girl.png" width="300">
+
+  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Minimalism/cat-waves.png" width="300">
+
+  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Minimalism/catpuccin_w.png" width="300">
+
+  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Minimalism/dark-cat-rosewater.png" width="300">
+
+  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Minimalism/darkroad.jpg" width="300">
+
+  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Minimalism/earth.png" width="300">
+
+  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Minimalism/fire-skull.jpg" width="300">
+
+  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Minimalism/kuromi.png" width="300">
+
+  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Minimalism/m90bb95n3m651.jpg" width="300">
+
+  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Minimalism/minim.jpg" width="300">
+
+  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Minimalism/minimal-purple.jpg" width="300">
+
+  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Minimalism/minimal_nord_guy.png" width="300">
+
+  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Minimalism/moon.png" width="300">
+
+  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Minimalism/nord_purple_waves.png" width="300">
+
+  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Minimalism/purple-mountain.png" width="300">
+
+  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Minimalism/ramen.png" width="300">
+
+  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Minimalism/rick.jpg" width="300">
+
+  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Minimalism/rocket.png" width="300">
+
+  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Minimalism/rrbltiehz7b31.png" width="300">
+
+  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Minimalism/seven_elements_catpuccin.jpg" width="300">
+
+  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Minimalism/two-astronauts.png" width="300">
+
+  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Minimalism/underwater.png" width="300">
+
+  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Minimalism/venom.jpg" width="300">
+
+  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Minimalism/wallhaven-yxyye7.png" width="300">
+
+  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Minimalism/wp6257053-1426380771.jpg" width="300">
+
+  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Minimalism/y4dm2xD.jpg" width="300">
 
 </details>
 
