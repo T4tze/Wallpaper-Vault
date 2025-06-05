@@ -117,6 +117,8 @@ If you want any image removed, please contact me at *********
 
   <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Looks Like Paintings/chinese.png" width="300">
 
+  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Looks Like Paintings/image.png" width="300">
+
   <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Looks Like Paintings/jeff-wayne-war-of-the-worlds-3840x2160-and-5120x2160-v0-sglmeugd3khe1.webp" width="300">
 
   <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Looks Like Paintings/oo8hu88g5pg61.png" width="300">
