@@ -169,6 +169,8 @@ If you want any image removed, please contact me at *********
 
   <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Anime/berserkdrac.png" width="300">
 
+  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Anime/bg.png" width="300">
+
   <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Anime/big-ahh-hat.png" width="300">
 
   <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Anime/cat.png" width="300">
@@ -297,6 +299,8 @@ If you want any image removed, please contact me at *********
   <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Looks Like Paintings/c9u5jpple8291.png" width="300">
 
   <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Looks Like Paintings/chinese.png" width="300">
+
+  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Looks Like Paintings/cool-wallpapers-v0-fvci5kughkvb1.png" width="300">
 
   <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Looks Like Paintings/image.png" width="300">
 
@@ -442,6 +446,8 @@ If you want any image removed, please contact me at *********
   <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Games/m25axo7de3be1.jpg" width="300">
 
   <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Games/shill2.jpg" width="300">
+
+  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Games/ugly-ass-lambda.png" width="300">
 
   <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Games/wallhaven-6dvkpl_3840x2160.png" width="300">
 
