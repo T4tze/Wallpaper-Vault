@@ -311,6 +311,15 @@ If you want any image removed, please contact me at *********
 </details>
 
 <details>
+  <summary><b>Games/hsr</b></summary>
+
+  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Games/hsr/thumb-1920-1360011.jpeg" width="300">
+
+  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Games/hsr/thumb-1920-1360014.jpeg" width="300">
+
+</details>
+
+<details>
   <summary><b>Anime</b></summary>
 
   <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Anime/117542401_p0.jpg" width="300">
