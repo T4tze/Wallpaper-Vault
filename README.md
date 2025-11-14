@@ -1,8 +1,6 @@
 
 # Wallpaper-Vault
 All images here are taken from the internet. If you have cool wallpapers to share, feel free to send them!  
-
-If you want any image removed, please contact me at *********  
 #
 
 ## Star TiMe LiNe
