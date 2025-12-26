@@ -117,6 +117,8 @@ If you want any image removed, please contact me at *********
 
   <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Minimalism/a_blue_sky_with_clouds.png" width="300">
 
+  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Minimalism/a_blue_yin_yang_symbol.jpg" width="300">
+
   <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Minimalism/anime-eye-nord.png" width="300">
 
   <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Minimalism/black5_unicat.png" width="300">
@@ -360,7 +362,13 @@ If you want any image removed, please contact me at *********
 
   <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Anime/Wellpaper-6.webp" width="300">
 
+  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Anime/a_cartoon_of_a_girl_with_white_hair_and_black_eyes.png" width="300">
+
   <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Anime/a_cartoon_of_a_woman_with_glasses.png" width="300">
+
+  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Anime/a_cartoon_of_a_woman_with_long_hair.png" width="300">
+
+  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Anime/a_cartoon_of_a_woman_with_pink_hair_and_many_cameras.jpg" width="300">
 
   <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Anime/an.jpg" width="300">
 
@@ -379,6 +387,8 @@ If you want any image removed, please contact me at *********
   <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Anime/big-ahh-hat.png" width="300">
 
   <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Anime/cat.png" width="300">
+
+  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Anime/chainsaw-man-angel-devil-4k-wallpaper-uhdpaper.com-4@1@j.jpg" width="300">
 
   <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Anime/chainsaw-man-manga-series-2022-series-3840x2743-8914.jpg" width="300">
 
@@ -401,6 +411,8 @@ If you want any image removed, please contact me at *********
   <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Anime/kessoku-band-if-they-were-a-metal-rock-band-v0-4vsz8fwhmxpf1.png" width="300">
 
   <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Anime/luffyGruvOriginalSize.png" width="300">
+
+  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Anime/mitakaasa_maxxed.jpeg" width="300">
 
   <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Anime/mocha.png" width="300">
 
