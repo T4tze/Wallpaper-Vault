@@ -180,6 +180,21 @@ If you want any image removed, please contact me at *********
 </details>
 
 <details>
+  <summary><b>Abstrakt</b></summary>
+
+  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Abstrakt/2el6x6.jpg" width="300">
+
+  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Abstrakt/3kmq2d.png" width="300">
+
+  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Abstrakt/j82el5.png" width="300">
+
+  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Abstrakt/yj1qk7.png" width="300">
+
+  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Abstrakt/zmgmly.png" width="300">
+
+</details>
+
+<details>
   <summary><b>Animal</b></summary>
 
   <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Animal/19.jpg" width="300">
