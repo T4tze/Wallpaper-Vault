@@ -25,17 +25,73 @@ If you want any image removed, please contact me at *********
 </details>
 
 <details>
-  <summary><b>Furrys (No Sex)</b></summary>
+  <summary><b>Scraps</b></summary>
 
-  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Furrys (No Sex)/Dream_library_time_water_mayflower_notebook_full_art.png" width="300">
+  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Scraps/01.jpg" width="300">
 
-  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Furrys (No Sex)/chill2.png" width="300">
+  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Scraps/106683013-.jpg" width="300">
 
-  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Furrys (No Sex)/pose.png" width="300">
+  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Scraps/1243346.png" width="300">
 
-  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Furrys (No Sex)/pride.jpg" width="300">
+  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Scraps/39b4pv8xj1fe1.jpg" width="300">
 
-  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Furrys (No Sex)/savage.jpg" width="300">
+  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Scraps/42.png" width="300">
+
+  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Scraps/45.png" width="300">
+
+  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Scraps/Cloudsday.jpg" width="300">
+
+  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Scraps/Lowpoly_Street.png" width="300">
+
+  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Scraps/Night_City.png" width="300">
+
+  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Scraps/Pastel-Window.png" width="300">
+
+  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Scraps/a_Tokyo_Night.png" width="300">
+
+  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Scraps/a_road_with_cars_and_buildings_in_the_background.png" width="300">
+
+  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Scraps/bluePixelWallpaper.jpg" width="300">
+
+  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Scraps/city-japan-artwork.jpg" width="300">
+
+  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Scraps/curved_thunder.png" width="300">
+
+  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Scraps/darkpurplewoods.png" width="300">
+
+  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Scraps/image.png" width="300">
+
+  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Scraps/m23bwh4n0x151.png" width="300">
+
+  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Scraps/mimmim.png" width="300">
+
+  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Scraps/purplelightning.jpg" width="300">
+
+  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Scraps/purplepath.jpg" width="300">
+
+  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Scraps/rocket_launch.png" width="300">
+
+  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Scraps/scfi-wall.png" width="300">
+
+  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Scraps/wall_secondary.png" width="300">
+
+  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Scraps/wallhaven-2ymp5g.png" width="300">
+
+  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Scraps/wallhaven-72pe8v_1920x1080.png" width="300">
+
+  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Scraps/wallhaven-o33l25.jpg" width="300">
+
+  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Scraps/wallhaven-o5rjq9.png" width="300">
+
+  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Scraps/wallhaven-rdyyg1.jpg" width="300">
+
+  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Scraps/wallhaven-wqkk17.jpg" width="300">
+
+  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Scraps/wallhaven-x8jj9o.png" width="300">
+
+  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Scraps/wallhaven-y8edvl.jpg" width="300">
+
+  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Scraps/wxhzokgv8ow61.jpg" width="300">
 
 </details>
 
@@ -114,126 +170,46 @@ If you want any image removed, please contact me at *********
 </details>
 
 <details>
-  <summary><b>OS</b></summary>
+  <summary><b>Cars</b></summary>
 
-  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/OS/51.jpg" width="300">
+  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Cars/8dc2effb81374274946f18b631f60bcb.png" width="300">
 
-  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/OS/EndeavourOS-DrWho-3840x2160.png" width="300">
+  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Cars/cltpqdtny88e1.png" width="300">
 
-  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/OS/Fedora.png" width="300">
-
-  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/OS/Mikuxarch.png" width="300">
-
-  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/OS/QgppZUj_d.webp" width="300">
-
-  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/OS/SPOILER__archi_.png" width="300">
-
-  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/OS/WINDOWS_CLEAN.png" width="300">
-
-  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/OS/arch-chan_to.png" width="300">
-
-  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/OS/arch-eagle.png" width="300">
-
-  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/OS/arch-nord-dark.png" width="300">
-
-  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/OS/arch-peace.png" width="300">
-
-  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/OS/arch_purple.png" width="300">
-
-  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/OS/catppuccin-rainbow-arch.png" width="300">
-
-  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/OS/debian.png" width="300">
-
-  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/OS/hder59l7zw051.png" width="300">
-
-  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/OS/l11.jpg" width="300">
-
-  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/OS/l17.jpg" width="300">
-
-  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/OS/l18.jpg" width="300">
-
-  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/OS/l19.jpg" width="300">
-
-  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/OS/l3.png" width="300">
-
-  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/OS/l5.png" width="300">
-
-  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/OS/l6.jpg" width="300">
-
-  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/OS/l7.jpg" width="300">
-
-  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/OS/nix.png" width="300">
-
-  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/OS/nixos-declarative.jpg" width="300">
-
-  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/OS/tux-magenta-pink.png" width="300">
-
-  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/OS/various-arch-2-4k.png" width="300">
-
-  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/OS/various-os-2-4k.png" width="300">
-
-  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/OS/various-os-3-4k.png" width="300">
-
-  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/OS/windows-10-simple-microsoft-windows-black-background-wallpaper-preview.jpg" width="300">
-
-  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/OS/windows-black.png" width="300">
-
-  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/OS/windows-magenta-blue.png" width="300">
+  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Cars/purple_car_girl.png" width="300">
 
 </details>
 
 <details>
-  <summary><b>Phone</b></summary>
+  <summary><b>Looks Like Paintings</b></summary>
 
-  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Phone/a-few-good-ones-i-found-v0-3eo2325wagse1.jpg" width="300">
+  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Looks Like Paintings/0xel5al52u9e1.png" width="300">
 
-  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Phone/barbie-movie-film-depth-effect-optimized-phone-wallpaper-by-v0-517li2b0b9te1.webp" width="300">
+  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Looks Like Paintings/1fmmnncdnxie1.png" width="300">
 
-  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Phone/barbie-movie-film-depth-effect-optimized-phone-wallpaper-by-v0-sltzx1b0b9te1.webp" width="300">
+  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Looks Like Paintings/6ju1jmzt0whe1.png" width="300">
 
-  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Phone/cyberpunk-2077-v0-if66kvgxruoe1.webp" width="300">
+  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Looks Like Paintings/EXIAlZw.png" width="300">
 
-  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Phone/dark-chess-wallpaper-v0-ee531nvv72se1.webp" width="300">
+  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Looks Like Paintings/c9u5jpple8291.png" width="300">
 
-  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Phone/fallen-knight-v0-k1m7ybv952re1.webp" width="300">
+  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Looks Like Paintings/chinese.png" width="300">
 
-  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Phone/hb11f420zppe1.webp" width="300">
+  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Looks Like Paintings/cool-wallpapers-v0-fvci5kughkvb1.png" width="300">
 
-  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Phone/japan-wallpaper-created-by-me-v0-nldumfua09oe1.webp" width="300">
+  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Looks Like Paintings/image.png" width="300">
 
-  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Phone/just-a-lil-guy-v0-otq6hdt14yce1.webp" width="300">
+  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Looks Like Paintings/jeff-wayne-war-of-the-worlds-3840x2160-and-5120x2160-v0-sglmeugd3khe1.webp" width="300">
 
-  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Phone/made-a-femtanyl-phone-wallpaper-feel-free-to-download-and-v0-qawk10dpa4zd1.png" width="300">
+  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Looks Like Paintings/livingThingsPurpurite2.jpg" width="300">
 
-  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Phone/metal-band-wallpapers-most-v0-9xccs81c6khe1.webp" width="300">
+  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Looks Like Paintings/oo8hu88g5pg61.png" width="300">
 
-  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Phone/metal-band-wallpapers-most-v0-klpdfk1e6khe1.webp" width="300">
+  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Looks Like Paintings/pasted file.png" width="300">
 
-  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Phone/metal-band-wallpapers-most-v0-sfmi342d6khe1.webp" width="300">
+  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Looks Like Paintings/spirited-away-tunnel.png" width="300">
 
-  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Phone/my-wallpaper-on-my-cell-phone-v0-d0sxurd84ase1.webp" width="300">
-
-  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Phone/random-anime-wallpapers-v0-1yzd3tjgl8pe1.webp" width="300">
-
-  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Phone/random-anime-wallpapers-v0-4syc8qchl8pe1.webp" width="300">
-
-  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Phone/random-anime-wallpapers-v0-a15mhuohl8pe1.webp" width="300">
-
-  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Phone/random-anime-wallpapers-v0-j9blwkahl8pe1.webp" width="300">
-
-  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Phone/random-anime-wallpapers-v0-t1cl5xmhl8pe1.webp" width="300">
-
-  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Phone/retro-pokemon-gen-1-starter-wallpapers-by-me-v0-2547lqltb9he1.webp" width="300">
-
-  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Phone/retro-pokemon-gen-1-starter-wallpapers-by-me-v0-3pbn3lutb9he1.webp" width="300">
-
-  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Phone/retro-pokemon-gen-1-starter-wallpapers-by-me-v0-eu3f074ub9he1.webp" width="300">
-
-  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Phone/super-mario-bros-3-depth-effect-optimized-phone-wallpaper-v0-1vy0fylcyqre1.webp" width="300">
-
-  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Phone/the-last-of-us-phone-wallpaper-by-jeff-langevin-2250x5000-v0-jjkmt34lccse1.webp" width="300">
-
-  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Phone/well-it-fits-perfectly-v0-an894ojgjxoe1.webp" width="300">
+  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Looks Like Paintings/usedcnvt.jpg" width="300">
 
 </details>
 
@@ -259,73 +235,17 @@ If you want any image removed, please contact me at *********
 </details>
 
 <details>
-  <summary><b>Scraps</b></summary>
+  <summary><b>Furrys (No Sex)</b></summary>
 
-  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Scraps/01.jpg" width="300">
+  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Furrys (No Sex)/Dream_library_time_water_mayflower_notebook_full_art.png" width="300">
 
-  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Scraps/106683013-.jpg" width="300">
+  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Furrys (No Sex)/chill2.png" width="300">
 
-  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Scraps/1243346.png" width="300">
+  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Furrys (No Sex)/pose.png" width="300">
 
-  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Scraps/39b4pv8xj1fe1.jpg" width="300">
+  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Furrys (No Sex)/pride.jpg" width="300">
 
-  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Scraps/42.png" width="300">
-
-  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Scraps/45.png" width="300">
-
-  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Scraps/Cloudsday.jpg" width="300">
-
-  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Scraps/Lowpoly_Street.png" width="300">
-
-  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Scraps/Night_City.png" width="300">
-
-  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Scraps/Pastel-Window.png" width="300">
-
-  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Scraps/a_Tokyo_Night.png" width="300">
-
-  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Scraps/a_road_with_cars_and_buildings_in_the_background.png" width="300">
-
-  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Scraps/bluePixelWallpaper.jpg" width="300">
-
-  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Scraps/city-japan-artwork.jpg" width="300">
-
-  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Scraps/curved_thunder.png" width="300">
-
-  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Scraps/darkpurplewoods.png" width="300">
-
-  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Scraps/image.png" width="300">
-
-  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Scraps/m23bwh4n0x151.png" width="300">
-
-  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Scraps/mimmim.png" width="300">
-
-  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Scraps/purplelightning.jpg" width="300">
-
-  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Scraps/purplepath.jpg" width="300">
-
-  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Scraps/rocket_launch.png" width="300">
-
-  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Scraps/scfi-wall.png" width="300">
-
-  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Scraps/wall_secondary.png" width="300">
-
-  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Scraps/wallhaven-2ymp5g.png" width="300">
-
-  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Scraps/wallhaven-72pe8v_1920x1080.png" width="300">
-
-  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Scraps/wallhaven-o33l25.jpg" width="300">
-
-  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Scraps/wallhaven-o5rjq9.png" width="300">
-
-  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Scraps/wallhaven-rdyyg1.jpg" width="300">
-
-  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Scraps/wallhaven-wqkk17.jpg" width="300">
-
-  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Scraps/wallhaven-x8jj9o.png" width="300">
-
-  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Scraps/wallhaven-y8edvl.jpg" width="300">
-
-  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Scraps/wxhzokgv8ow61.jpg" width="300">
+  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Furrys (No Sex)/savage.jpg" width="300">
 
 </details>
 
@@ -478,6 +398,75 @@ If you want any image removed, please contact me at *********
 </details>
 
 <details>
+  <summary><b>OS</b></summary>
+
+  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/OS/51.jpg" width="300">
+
+  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/OS/EndeavourOS-DrWho-3840x2160.png" width="300">
+
+  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/OS/Fedora.png" width="300">
+
+  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/OS/Mikuxarch.png" width="300">
+
+  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/OS/QgppZUj_d.webp" width="300">
+
+  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/OS/SPOILER__archi_.png" width="300">
+
+  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/OS/WINDOWS_CLEAN.png" width="300">
+
+  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/OS/arch-chan_to.png" width="300">
+
+  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/OS/arch-eagle.png" width="300">
+
+  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/OS/arch-nord-dark.png" width="300">
+
+  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/OS/arch-peace.png" width="300">
+
+  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/OS/arch_purple.png" width="300">
+
+  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/OS/catppuccin-rainbow-arch.png" width="300">
+
+  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/OS/debian.png" width="300">
+
+  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/OS/hder59l7zw051.png" width="300">
+
+  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/OS/l11.jpg" width="300">
+
+  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/OS/l17.jpg" width="300">
+
+  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/OS/l18.jpg" width="300">
+
+  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/OS/l19.jpg" width="300">
+
+  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/OS/l3.png" width="300">
+
+  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/OS/l5.png" width="300">
+
+  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/OS/l6.jpg" width="300">
+
+  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/OS/l7.jpg" width="300">
+
+  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/OS/nix.png" width="300">
+
+  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/OS/nixos-declarative.jpg" width="300">
+
+  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/OS/tux-magenta-pink.png" width="300">
+
+  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/OS/various-arch-2-4k.png" width="300">
+
+  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/OS/various-os-2-4k.png" width="300">
+
+  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/OS/various-os-3-4k.png" width="300">
+
+  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/OS/windows-10-simple-microsoft-windows-black-background-wallpaper-preview.jpg" width="300">
+
+  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/OS/windows-black.png" width="300">
+
+  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/OS/windows-magenta-blue.png" width="300">
+
+</details>
+
+<details>
   <summary><b>Minimalism</b></summary>
 
   <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Minimalism/02.jpg" width="300">
@@ -561,46 +550,57 @@ If you want any image removed, please contact me at *********
 </details>
 
 <details>
-  <summary><b>Looks Like Paintings</b></summary>
+  <summary><b>Phone</b></summary>
 
-  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Looks Like Paintings/0xel5al52u9e1.png" width="300">
+  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Phone/a-few-good-ones-i-found-v0-3eo2325wagse1.jpg" width="300">
 
-  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Looks Like Paintings/1fmmnncdnxie1.png" width="300">
+  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Phone/barbie-movie-film-depth-effect-optimized-phone-wallpaper-by-v0-517li2b0b9te1.webp" width="300">
 
-  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Looks Like Paintings/6ju1jmzt0whe1.png" width="300">
+  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Phone/barbie-movie-film-depth-effect-optimized-phone-wallpaper-by-v0-sltzx1b0b9te1.webp" width="300">
 
-  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Looks Like Paintings/EXIAlZw.png" width="300">
+  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Phone/cyberpunk-2077-v0-if66kvgxruoe1.webp" width="300">
 
-  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Looks Like Paintings/c9u5jpple8291.png" width="300">
+  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Phone/dark-chess-wallpaper-v0-ee531nvv72se1.webp" width="300">
 
-  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Looks Like Paintings/chinese.png" width="300">
+  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Phone/fallen-knight-v0-k1m7ybv952re1.webp" width="300">
 
-  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Looks Like Paintings/cool-wallpapers-v0-fvci5kughkvb1.png" width="300">
+  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Phone/hb11f420zppe1.webp" width="300">
 
-  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Looks Like Paintings/image.png" width="300">
+  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Phone/japan-wallpaper-created-by-me-v0-nldumfua09oe1.webp" width="300">
 
-  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Looks Like Paintings/jeff-wayne-war-of-the-worlds-3840x2160-and-5120x2160-v0-sglmeugd3khe1.webp" width="300">
+  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Phone/just-a-lil-guy-v0-otq6hdt14yce1.webp" width="300">
 
-  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Looks Like Paintings/livingThingsPurpurite2.jpg" width="300">
+  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Phone/made-a-femtanyl-phone-wallpaper-feel-free-to-download-and-v0-qawk10dpa4zd1.png" width="300">
 
-  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Looks Like Paintings/oo8hu88g5pg61.png" width="300">
+  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Phone/metal-band-wallpapers-most-v0-9xccs81c6khe1.webp" width="300">
 
-  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Looks Like Paintings/pasted file.png" width="300">
+  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Phone/metal-band-wallpapers-most-v0-klpdfk1e6khe1.webp" width="300">
 
-  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Looks Like Paintings/spirited-away-tunnel.png" width="300">
+  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Phone/metal-band-wallpapers-most-v0-sfmi342d6khe1.webp" width="300">
 
-  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Looks Like Paintings/usedcnvt.jpg" width="300">
+  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Phone/my-wallpaper-on-my-cell-phone-v0-d0sxurd84ase1.webp" width="300">
 
-</details>
+  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Phone/random-anime-wallpapers-v0-1yzd3tjgl8pe1.webp" width="300">
 
-<details>
-  <summary><b>Cars</b></summary>
+  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Phone/random-anime-wallpapers-v0-4syc8qchl8pe1.webp" width="300">
 
-  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Cars/8dc2effb81374274946f18b631f60bcb.png" width="300">
+  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Phone/random-anime-wallpapers-v0-a15mhuohl8pe1.webp" width="300">
 
-  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Cars/cltpqdtny88e1.png" width="300">
+  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Phone/random-anime-wallpapers-v0-j9blwkahl8pe1.webp" width="300">
 
-  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Cars/purple_car_girl.png" width="300">
+  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Phone/random-anime-wallpapers-v0-t1cl5xmhl8pe1.webp" width="300">
+
+  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Phone/retro-pokemon-gen-1-starter-wallpapers-by-me-v0-2547lqltb9he1.webp" width="300">
+
+  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Phone/retro-pokemon-gen-1-starter-wallpapers-by-me-v0-3pbn3lutb9he1.webp" width="300">
+
+  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Phone/retro-pokemon-gen-1-starter-wallpapers-by-me-v0-eu3f074ub9he1.webp" width="300">
+
+  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Phone/super-mario-bros-3-depth-effect-optimized-phone-wallpaper-v0-1vy0fylcyqre1.webp" width="300">
+
+  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Phone/the-last-of-us-phone-wallpaper-by-jeff-langevin-2250x5000-v0-jjkmt34lccse1.webp" width="300">
+
+  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/Phone/well-it-fits-perfectly-v0-an894ojgjxoe1.webp" width="300">
 
 </details>
 
