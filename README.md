@@ -8,6 +8,58 @@ If you want any image removed, please contact me at *********
 ## Star TiMe LiNe
 [![Stargazers over time](https://starchart.cc/T4tze/Wallpaper-Vault.svg?variant=adaptive)](https://starchart.cc/T4tze/Wallpaper-Vault)
 <details>
+  <summary><b>abstract</b></summary>
+
+  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/abstract/01d35a1a9b91cdcafe85bc9b9db2c1c6.jpg" width="300">
+
+  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/abstract/2el6x6.jpg" width="300">
+
+  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/abstract/3kmq2d.png" width="300">
+
+  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/abstract/Gy1MvUbakAAk-sJ.jpg" width="300">
+
+  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/abstract/Picsart_25-07-15_19-10-47-195.png" width="300">
+
+  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/abstract/ceaser_7680x4320.jpg" width="300">
+
+  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/abstract/disco-elysium-artwork-concept-art-game-art-4k-hd-wallpaper-38b6fd58f0b05cc850eca12e987204fa.jpg" width="300">
+
+  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/abstract/ffea712bbddd315c93092d319c5d10ee.jpg" width="300">
+
+  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/abstract/firefox_XhN9IC3pqY.jpg" width="300">
+
+  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/abstract/j82el5.png" width="300">
+
+  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/abstract/linuxwallpaper.png" width="300">
+
+  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/abstract/linuxwallpaper2.png" width="300">
+
+  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/abstract/linuxwallpaper3.png" width="300">
+
+  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/abstract/pasted file.png" width="300">
+
+  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/abstract/yj1qk7.png" width="300">
+
+  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/abstract/zmgmly.png" width="300">
+
+</details>
+
+<details>
+  <summary><b>furrys</b></summary>
+
+  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/furrys/Dream_library_time_water_mayflower_notebook_full_art.png" width="300">
+
+  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/furrys/chill2.png" width="300">
+
+  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/furrys/pose.png" width="300">
+
+  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/furrys/pride.jpg" width="300">
+
+  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/furrys/savage.jpg" width="300">
+
+</details>
+
+<details>
   <summary><b>pantings</b></summary>
 
   <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/pantings/0xel5al52u9e1.png" width="300">
@@ -47,6 +99,19 @@ If you want any image removed, please contact me at *********
   <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/pantings/spirited-away-tunnel.png" width="300">
 
   <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/pantings/usedcnvt.jpg" width="300">
+
+</details>
+
+<details>
+  <summary><b>cars</b></summary>
+
+  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/cars/1055632.jpg" width="300">
+
+  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/cars/8dc2effb81374274946f18b631f60bcb.png" width="300">
+
+  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/cars/cltpqdtny88e1.png" width="300">
+
+  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/cars/purple_car_girl.png" width="300">
 
 </details>
 
@@ -120,15 +185,23 @@ If you want any image removed, please contact me at *********
 </details>
 
 <details>
-  <summary><b>cars</b></summary>
+  <summary><b>animals</b></summary>
 
-  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/cars/1055632.jpg" width="300">
+  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/animals/19.jpg" width="300">
 
-  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/cars/8dc2effb81374274946f18b631f60bcb.png" width="300">
+  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/animals/20.jpg" width="300">
 
-  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/cars/cltpqdtny88e1.png" width="300">
+  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/animals/21.jpg" width="300">
 
-  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/cars/purple_car_girl.png" width="300">
+  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/animals/2902820-1933823862.jpg" width="300">
+
+  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/animals/fry4ub.png" width="300">
+
+  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/animals/k37mqt9.jpg" width="300">
+
+  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/animals/mgaoqgmu9pq61.jpg" width="300">
+
+  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/animals/vecyhqfxxkg31.png" width="300">
 
 </details>
 
@@ -206,6 +279,89 @@ If you want any image removed, please contact me at *********
 </details>
 
 <details>
+  <summary><b>games</b></summary>
+
+  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/games/6c49bc6c1b5d8a37d67d2246e1e46dd9-1.jpg" width="300">
+
+  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/games/7qqa10fcfkt41.jpg" width="300">
+
+  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/games/A36wsoHl.png" width="300">
+
+  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/games/Minecraft.jpg" width="300">
+
+  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/games/bg3.jpg" width="300">
+
+  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/games/eulwc5sqoan61.png" width="300">
+
+  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/games/m25axo7de3be1.jpg" width="300">
+
+  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/games/milk-outside-a-bag-of-milk-outside-a-bag-of-milk-5120x2880-v0-vpd1kec5y64b1.png" width="300">
+
+  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/games/px.webp" width="300">
+
+  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/games/shill2.jpg" width="300">
+
+  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/games/signalis-wall.jpg" width="300">
+
+  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/games/ugly-ass-lambda.png" width="300">
+
+  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/games/wallhaven-6dvkpl_3840x2160.png" width="300">
+
+  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/games/wp14722108-hollow-knight-wallpapers.jpg" width="300">
+
+  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/games/wp7134291-solaire-of-astora-wallpapers.jpg" width="300">
+
+</details>
+
+<details>
+  <summary><b>games/doom</b></summary>
+
+  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/games/doom/20250320125730_1.jpg" width="300">
+
+  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/games/doom/20250320130338_1.jpg" width="300">
+
+  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/games/doom/20250320134101_1.jpg" width="300">
+
+  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/games/doom/GBZ25BxXgAArOBH.jpg" width="300">
+
+  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/games/doom/doom-the-dark-ages-2025-vc.jpg" width="300">
+
+  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/games/doom/doom-the-dark-ages-my.jpg" width="300">
+
+</details>
+
+<details>
+  <summary><b>games/ultrakill</b></summary>
+
+  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/games/ultrakill/wallpaper7.png" width="300">
+
+  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/games/ultrakill/wallpaper8.png" width="300">
+
+  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/games/ultrakill/wallpaper9.png" width="300">
+
+</details>
+
+<details>
+  <summary><b>games/hotline-miami</b></summary>
+
+  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/games/hotline-miami/IMG_4918.jpg" width="300">
+
+  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/games/hotline-miami/IMG_4919.jpg" width="300">
+
+  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/games/hotline-miami/IMG_4920.jpg" width="300">
+
+</details>
+
+<details>
+  <summary><b>games/honkai-star-rail</b></summary>
+
+  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/games/honkai-star-rail/thumb-1920-1360011.jpeg" width="300">
+
+  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/games/honkai-star-rail/thumb-1920-1360014.jpeg" width="300">
+
+</details>
+
+<details>
   <summary><b>phone</b></summary>
 
   <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/phone/IMG_20260401_100114.jpg" width="300">
@@ -267,38 +423,95 @@ If you want any image removed, please contact me at *********
 </details>
 
 <details>
-  <summary><b>animals</b></summary>
+  <summary><b>minimal</b></summary>
 
-  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/animals/19.jpg" width="300">
+  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/minimal/02.jpg" width="300">
 
-  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/animals/20.jpg" width="300">
+  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/minimal/03.jpg" width="300">
 
-  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/animals/21.jpg" width="300">
+  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/minimal/1i918gwz1gl61.png" width="300">
 
-  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/animals/2902820-1933823862.jpg" width="300">
+  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/minimal/1v6mcuhne1851.jpg" width="300">
 
-  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/animals/fry4ub.png" width="300">
+  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/minimal/5DCF79F9-6124-4DBD-925E-E5DEC87CF129.png" width="300">
 
-  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/animals/k37mqt9.jpg" width="300">
+  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/minimal/USER.png" width="300">
 
-  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/animals/mgaoqgmu9pq61.jpg" width="300">
+  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/minimal/a_blue_sky_with_clouds.png" width="300">
 
-  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/animals/vecyhqfxxkg31.png" width="300">
+  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/minimal/a_blue_yin_yang_symbol.jpg" width="300">
 
-</details>
+  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/minimal/a_close_up_of_a_person_with_wings.jpg" width="300">
 
-<details>
-  <summary><b>furrys</b></summary>
+  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/minimal/anime-eye-nord.png" width="300">
 
-  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/furrys/Dream_library_time_water_mayflower_notebook_full_art.png" width="300">
+  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/minimal/black5_unicat.png" width="300">
 
-  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/furrys/chill2.png" width="300">
+  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/minimal/black_car_girl.jpg" width="300">
 
-  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/furrys/pose.png" width="300">
+  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/minimal/blue-black-girl.png" width="300">
 
-  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/furrys/pride.jpg" width="300">
+  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/minimal/bunny.png" width="300">
 
-  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/furrys/savage.jpg" width="300">
+  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/minimal/cat-waves.png" width="300">
+
+  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/minimal/catpuccin_w.png" width="300">
+
+  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/minimal/dark-cat-rosewater.png" width="300">
+
+  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/minimal/darkroad.jpg" width="300">
+
+  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/minimal/earth.png" width="300">
+
+  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/minimal/fire-skull.jpg" width="300">
+
+  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/minimal/gs144fb3ev5e1.png" width="300">
+
+  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/minimal/iIZxzZH.png" width="300">
+
+  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/minimal/image.png" width="300">
+
+  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/minimal/kittys.png" width="300">
+
+  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/minimal/kuromi.png" width="300">
+
+  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/minimal/m90bb95n3m651.jpg" width="300">
+
+  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/minimal/minim.jpg" width="300">
+
+  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/minimal/minimal-purple.jpg" width="300">
+
+  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/minimal/minimal_nord_guy.png" width="300">
+
+  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/minimal/moon.png" width="300">
+
+  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/minimal/nord_purple_waves.png" width="300">
+
+  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/minimal/open_sourcerer.png" width="300">
+
+  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/minimal/purple-mountain.png" width="300">
+
+  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/minimal/ramen.png" width="300">
+
+  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/minimal/rick.jpg" width="300">
+
+  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/minimal/rocket.png" width="300">
+
+  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/minimal/rrbltiehz7b31.png" width="300">
+
+  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/minimal/seven_elements_catpuccin.jpg" width="300">
+
+  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/minimal/two-astronauts.png" width="300">
+
+  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/minimal/underwater.png" width="300">
+
+  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/minimal/venom.jpg" width="300">
+
+  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/minimal/wallhaven-yxyye7.png" width="300">
+
+  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/minimal/wp6257053-1426380771.jpg" width="300">
+
+  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/minimal/y4dm2xD.jpg" width="300">
 
 </details>
 
@@ -477,219 +690,6 @@ If you want any image removed, please contact me at *********
   <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/animes/Fucking Miku/wallhaven-2kgojm.png" width="300">
 
   <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/animes/Fucking Miku/wallhaven-5ykdq8.png" width="300">
-
-</details>
-
-<details>
-  <summary><b>abstract</b></summary>
-
-  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/abstract/01d35a1a9b91cdcafe85bc9b9db2c1c6.jpg" width="300">
-
-  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/abstract/2el6x6.jpg" width="300">
-
-  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/abstract/3kmq2d.png" width="300">
-
-  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/abstract/Gy1MvUbakAAk-sJ.jpg" width="300">
-
-  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/abstract/Picsart_25-07-15_19-10-47-195.png" width="300">
-
-  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/abstract/ceaser_7680x4320.jpg" width="300">
-
-  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/abstract/disco-elysium-artwork-concept-art-game-art-4k-hd-wallpaper-38b6fd58f0b05cc850eca12e987204fa.jpg" width="300">
-
-  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/abstract/ffea712bbddd315c93092d319c5d10ee.jpg" width="300">
-
-  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/abstract/firefox_XhN9IC3pqY.jpg" width="300">
-
-  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/abstract/j82el5.png" width="300">
-
-  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/abstract/linuxwallpaper.png" width="300">
-
-  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/abstract/linuxwallpaper2.png" width="300">
-
-  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/abstract/linuxwallpaper3.png" width="300">
-
-  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/abstract/pasted file.png" width="300">
-
-  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/abstract/yj1qk7.png" width="300">
-
-  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/abstract/zmgmly.png" width="300">
-
-</details>
-
-<details>
-  <summary><b>games</b></summary>
-
-  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/games/6c49bc6c1b5d8a37d67d2246e1e46dd9-1.jpg" width="300">
-
-  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/games/7qqa10fcfkt41.jpg" width="300">
-
-  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/games/A36wsoHl.png" width="300">
-
-  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/games/Minecraft.jpg" width="300">
-
-  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/games/bg3.jpg" width="300">
-
-  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/games/eulwc5sqoan61.png" width="300">
-
-  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/games/m25axo7de3be1.jpg" width="300">
-
-  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/games/milk-outside-a-bag-of-milk-outside-a-bag-of-milk-5120x2880-v0-vpd1kec5y64b1.png" width="300">
-
-  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/games/px.webp" width="300">
-
-  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/games/shill2.jpg" width="300">
-
-  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/games/signalis-wall.jpg" width="300">
-
-  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/games/ugly-ass-lambda.png" width="300">
-
-  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/games/wallhaven-6dvkpl_3840x2160.png" width="300">
-
-  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/games/wp14722108-hollow-knight-wallpapers.jpg" width="300">
-
-  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/games/wp7134291-solaire-of-astora-wallpapers.jpg" width="300">
-
-</details>
-
-<details>
-  <summary><b>games/hotline-miami</b></summary>
-
-  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/games/hotline-miami/IMG_4918.jpg" width="300">
-
-  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/games/hotline-miami/IMG_4919.jpg" width="300">
-
-  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/games/hotline-miami/IMG_4920.jpg" width="300">
-
-</details>
-
-<details>
-  <summary><b>games/honkai-star-rail</b></summary>
-
-  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/games/honkai-star-rail/thumb-1920-1360011.jpeg" width="300">
-
-  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/games/honkai-star-rail/thumb-1920-1360014.jpeg" width="300">
-
-</details>
-
-<details>
-  <summary><b>games/doom</b></summary>
-
-  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/games/doom/20250320125730_1.jpg" width="300">
-
-  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/games/doom/20250320130338_1.jpg" width="300">
-
-  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/games/doom/20250320134101_1.jpg" width="300">
-
-  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/games/doom/GBZ25BxXgAArOBH.jpg" width="300">
-
-  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/games/doom/doom-the-dark-ages-2025-vc.jpg" width="300">
-
-  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/games/doom/doom-the-dark-ages-my.jpg" width="300">
-
-</details>
-
-<details>
-  <summary><b>games/ultrakill</b></summary>
-
-  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/games/ultrakill/wallpaper7.png" width="300">
-
-  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/games/ultrakill/wallpaper8.png" width="300">
-
-  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/games/ultrakill/wallpaper9.png" width="300">
-
-</details>
-
-<details>
-  <summary><b>minimal</b></summary>
-
-  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/minimal/02.jpg" width="300">
-
-  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/minimal/03.jpg" width="300">
-
-  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/minimal/1i918gwz1gl61.png" width="300">
-
-  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/minimal/1v6mcuhne1851.jpg" width="300">
-
-  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/minimal/5DCF79F9-6124-4DBD-925E-E5DEC87CF129.png" width="300">
-
-  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/minimal/USER.png" width="300">
-
-  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/minimal/a_blue_sky_with_clouds.png" width="300">
-
-  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/minimal/a_blue_yin_yang_symbol.jpg" width="300">
-
-  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/minimal/a_close_up_of_a_person_with_wings.jpg" width="300">
-
-  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/minimal/anime-eye-nord.png" width="300">
-
-  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/minimal/black5_unicat.png" width="300">
-
-  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/minimal/black_car_girl.jpg" width="300">
-
-  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/minimal/blue-black-girl.png" width="300">
-
-  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/minimal/bunny.png" width="300">
-
-  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/minimal/cat-waves.png" width="300">
-
-  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/minimal/catpuccin_w.png" width="300">
-
-  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/minimal/dark-cat-rosewater.png" width="300">
-
-  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/minimal/darkroad.jpg" width="300">
-
-  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/minimal/earth.png" width="300">
-
-  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/minimal/fire-skull.jpg" width="300">
-
-  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/minimal/gs144fb3ev5e1.png" width="300">
-
-  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/minimal/iIZxzZH.png" width="300">
-
-  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/minimal/image.png" width="300">
-
-  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/minimal/kittys.png" width="300">
-
-  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/minimal/kuromi.png" width="300">
-
-  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/minimal/m90bb95n3m651.jpg" width="300">
-
-  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/minimal/minim.jpg" width="300">
-
-  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/minimal/minimal-purple.jpg" width="300">
-
-  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/minimal/minimal_nord_guy.png" width="300">
-
-  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/minimal/moon.png" width="300">
-
-  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/minimal/nord_purple_waves.png" width="300">
-
-  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/minimal/open_sourcerer.png" width="300">
-
-  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/minimal/purple-mountain.png" width="300">
-
-  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/minimal/ramen.png" width="300">
-
-  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/minimal/rick.jpg" width="300">
-
-  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/minimal/rocket.png" width="300">
-
-  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/minimal/rrbltiehz7b31.png" width="300">
-
-  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/minimal/seven_elements_catpuccin.jpg" width="300">
-
-  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/minimal/two-astronauts.png" width="300">
-
-  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/minimal/underwater.png" width="300">
-
-  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/minimal/venom.jpg" width="300">
-
-  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/minimal/wallhaven-yxyye7.png" width="300">
-
-  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/minimal/wp6257053-1426380771.jpg" width="300">
-
-  <img src="https://raw.githubusercontent.com/T4tze/Wallpaper-Vault/main/Wallpaper/minimal/y4dm2xD.jpg" width="300">
 
 </details>
 
